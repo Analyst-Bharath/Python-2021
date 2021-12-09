@@ -1,3 +1,4 @@
+#This is my first program
 print ("Hello")
        
 print("Welcome to my computer quiz")
@@ -45,5 +46,5 @@ else:
     print('Try again!')
 
 print("You got "  +str(score)+ " Questions Correct!")
-print("You got "  +str(score/4)*100)+ " %.")
+print("You got "  +str((score/4)*100)+ " %.")
     
